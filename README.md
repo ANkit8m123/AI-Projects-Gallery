@@ -33,7 +33,7 @@
 | 31 | Multi Agentic Blog Generation | Generative AI | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/Multi-Agentic-Blog-Generation) | <p align="center">✔</p> |
 | 32 | GitHub Tracker | Data Analytics | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanM45/GitPulse) | <p align="center">✔</p> |
 
- * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/KalyanM45) 
+ * For More End-to-End Projects: [<b>Follow me on GitHub</b>](https://github.com/ANkit8m123) 
 
 # Many more projects will be uploaded soon!
 
